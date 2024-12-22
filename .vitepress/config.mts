@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 import { set_sidebar } from "./utils/auto-gen-sidebar.mjs"; // 改成自己的路径
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/docs-demo/",
   title: "如真如学如会",
   description: "A VitePress Site",
   themeConfig: {
