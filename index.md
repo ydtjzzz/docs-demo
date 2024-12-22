@@ -7,7 +7,7 @@ hero:
   text: "一个随便写写的文档"
   tagline: 无限进步
   image:
-    src: ./.vitepress/assets/bgimg.png
+    src: ./assets/bgimg.png
     alt: "背景图片"
   actions:
     - theme: brand
