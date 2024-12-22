@@ -7,7 +7,7 @@ hero:
   text: "一个随便写写的文档"
   tagline: 无限进步
   image:
-    src: ./assets/bgimg.png
+    src: /bgimg.png
     alt: "背景图片"
   actions:
     - theme: brand
